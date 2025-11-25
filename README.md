@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Kauã P.
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor e profissional de cibersegurança`**
 
-Me chamo Kauã e sou um estudante de programação em busca de um estagio. Atualmente estou cursando o curso de Analise e desenvolvimento de sistemas na Uninassau com previsão de formação para 2027, tenho experiencias com desenvolvimento de jogos e com projetos de sites.".
+Me chamo Kauã e sou um estudante de programação em busca de um estágio. Atualmente curso Análise e Desenvolvimento de Sistemas na Uninassau, com previsão de conclusão em 2027. Tenho experiência com desenvolvimento de jogos, projetos de sites e também possuo conhecimento na área de cibersegurança, incluindo práticas de segurança da informação, identificação de vulnerabilidades e boas práticas de proteção de sistemas.
 
 
 ---
