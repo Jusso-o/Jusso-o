@@ -78,7 +78,7 @@ Me chamo Kauã e sou um estudante de programação em busca de um estágio. Atua
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/jusso-o/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+    src="https://github-readme-stats.vercel.app/api?username=Jusso-o&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
