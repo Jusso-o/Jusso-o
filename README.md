@@ -19,9 +19,9 @@ Além disso, gosto de me manter atualizado e experimentar novas tecnologias semp
 ### 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jusso-o&show_icons=true&count_private=true&theme=dark)](https://github.com/Jusso-o)
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jusso-o&layout=compact&theme=dark)](https://github.com/Jusso-o)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jusso-o&theme=dark&hide_border=true)](https://github.com/Jusso-o)
+
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jusso-o&layout=compact&theme=dark)](https://github.com/Jusso-o)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jusso-o&color=brightgreen)](https://github.com/Jusso-o)
 [![Followers](https://img.shields.io/github/followers/Jusso-o?label=Seguir&style=social)](https://github.com/Jusso-o)
